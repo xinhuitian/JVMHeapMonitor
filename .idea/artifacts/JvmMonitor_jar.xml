@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JvmMonitor:jar">
+    <output-path>$PROJECT_DIR$/../</output-path>
+    <root id="archive" name="JvmMonitor.jar">
+      <element id="module-output" name="JvmMonitor" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../jdk1.7.0_67/lib/tools.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
